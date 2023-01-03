@@ -1,5 +1,5 @@
 import HomeHeader from "./HomeHeader"
-import FocusedStatusBar from "./focused-status-bar"
+import FocusedStatusBar from "./FocusedStatusBar"
 import NFTCard from "./NFTCard"
 import { CircleButton } from "./Button";
 
