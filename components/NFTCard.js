@@ -14,7 +14,7 @@ const NFTCard = ({ data }) => {
   return (
     <View style={{
       backgroundColor: COLORS.white,
-      borderRadiuss: SIZES.font,
+      borderRadius: SIZES.font,
       marginBottom: SIZES.extraLarge,
       margin: SIZES.base,
       ...SHADOWS.dark
